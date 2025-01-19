@@ -3,12 +3,12 @@
 #include <string>
 #include <iomanip>
 using namespace std;
-const int l_name = 10;
+static const int l_name = 10;
 
 class AEROFLOT
 {
 public:
-    AEROFLOT(int lName = 10);
+    AEROFLOT();
     ~AEROFLOT();
     string GetDestination_point() const;
     int GetFlight_number() const;

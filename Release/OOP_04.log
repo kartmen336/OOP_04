@@ -1,0 +1,10 @@
+﻿  AEROFLOT.cpp
+  DBase.cpp
+  GetFunc.cpp
+C:\Users\Admin\source\repos\OOP_04\GetFunc.cpp(26,28): warning C4018: <=: несоответствие типов со знаком и без знака
+  main.cpp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 206 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  OOP_04.vcxproj -> C:\Users\Admin\source\repos\OOP_04\Release\OOP_04.exe
